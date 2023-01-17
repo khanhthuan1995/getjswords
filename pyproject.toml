@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/khanhthuan1995/whois"
-"Bug Tracker" = "https://github.com/khanhthuan1995/whois/issues"
+"Homepage" = "https://github.com/khanhthuan1995/getjswords"
+"Bug Tracker" = "https://github.com/khanhthuan1995/getjswords/issues"
 
 [project.scripts]
 getjswords = "getjswords.getjswords:usage"
